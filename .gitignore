@@ -1,0 +1,8 @@
+settings/
+.project
+*.iml
+*.swp
+*.swo
+.idea
+*.ipr
+*.iws
